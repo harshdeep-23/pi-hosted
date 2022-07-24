@@ -17,7 +17,7 @@
 	"piHostedDoc": "rpi_docker_monitor.md",
 	"platform": "linux",
 	"ports": [
-		"3000:3000/tcp"
+		"3030:3000/tcp"
 	],
 	"preInstallScript": "rpi_docker_monitor.sh",
 	"repository": {
